@@ -3,5 +3,5 @@ Demo Website developed using ReactJs.In which, Loading items from json and apply
 Website link: https://archilchovatiya.github.io/monster-rolodex/
 
 
-# Shreenshot
+# Screenshot
 ![](SS.png)
